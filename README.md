@@ -3,6 +3,7 @@
 ## Name: Ashley Zhou
 
 ## Github pages
+[https://ashleyzhou1.github.io/Lab8_Starter/](https://ashleyzhou1.github.io/Lab8_Starter/)
 
 ## Pt 2 - Explore
 Graceful degradation and service workers are related because graceful degradation involves 
